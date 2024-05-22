@@ -613,7 +613,7 @@ public class graph {
 
 
     /*
-     *   for debugging
+     *   for debugging, useless
      */
     public static void main(String[] args) {
         graph g = new graph("./example.gio");
