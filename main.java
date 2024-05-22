@@ -10,7 +10,7 @@ public class main {
         // System.out.println(g.queryBridgeWords("help", "!"));
         System.out.println(g.queryBridgeWords("say", "about"));
 
-        System.out.println(g.generateNewText("i like very much"));
+        System.out.println(g.generateNewText("i very much"));
         System.out.println(g.generateNewText("how about for a beers"));
         System.out.println(g.generateNewText("i am"));
 

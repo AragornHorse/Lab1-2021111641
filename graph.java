@@ -622,7 +622,7 @@ public class graph {
 
         System.out.println(g.queryBridgeWords("i", "am"));
 
-        System.out.println(g.generateNewText("./input.gio"));
+        System.out.println(g.generateNewText("a"));
         System.out.println(g.get_shortest_path("i").get(0).name);
         
         System.out.println(g.calcShortestPath("i", "me"));
