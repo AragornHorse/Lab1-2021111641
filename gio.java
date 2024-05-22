@@ -99,7 +99,7 @@ public class gio {
      *   for debugging
      */
     static public void main(String[] args) {
-        gio g = new gio("you are");
+        gio g = new gio("who you are");
         Tool.print_string_array(g.tokens);
     }
 }
