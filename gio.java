@@ -100,6 +100,7 @@ public class gio {
      */
     static public void main(String[] args) {
         gio g = new gio("who you are");
+        
         Tool.print_string_array(g.tokens);
     }
 }
