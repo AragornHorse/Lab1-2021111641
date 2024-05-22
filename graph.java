@@ -620,7 +620,7 @@ public class graph {
         // Tool.print_string_array(g.io_interface.tokens);
         g.print();
 
-        System.out.println(g.queryBridgeWords("i", "am"));
+        System.out.println(g.queryBridgeWords("i", "you"));
 
         System.out.println(g.generateNewText("a"));
         System.out.println(g.get_shortest_path("i").get(0).name);
